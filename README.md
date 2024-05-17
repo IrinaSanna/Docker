@@ -1,2 +1,3 @@
-## Скриншот GET
-![DockerPostman](C:\Users\User\Desktop)
+## Скриншот
+
+![](screenshot\img.png)
