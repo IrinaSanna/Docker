@@ -15,10 +15,8 @@ build/
 
 ### IntelliJ IDEA ###
 .idea
-/data
 *.iws
 *.iml
-*.Docker.iml
 *.ipr
 out/
 
